@@ -1,0 +1,1 @@
+It dives deeper into the strategies for refining prompts to achieve better responses from large language models (LLMs). It covers techniques such as few-shot and zero-shot learning, CoT (Chain of Thought) and RAG (Retrieval Augumented Generation).
