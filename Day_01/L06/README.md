@@ -4,4 +4,4 @@ You will be running the code in Google Colab, specifically focusing on fine-tuni
 The notebook provides instructions for setting up the environment in Google Colab, including selecting appropriate GPU resources and installing the Unsloth library. It also offers guidance on loading pre-quantized 4-bit models, to facilitate efficient fine-tuning. 
 <br/>
 <br/>
-Users are advised not to execute the code within this notebook directly
+Users are advised not to execute the code within this notebook directly.
