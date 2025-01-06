@@ -1,0 +1,1 @@
+Provides an overview of the Transformer model, which has revolutionized natural language processing (NLP). It introduces key concepts, including attention mechanisms, self-attention, and how these components enable transformers to handle long-range dependencies more effectively than previous models.
