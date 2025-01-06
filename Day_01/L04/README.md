@@ -1,0 +1,1 @@
+Introduces the concept of prompt engineering, a key aspect of interacting with large language models (LLMs) to optimize their performance. It covers various techniques for designing effective prompts that guide the model to produce accurate and relevant outputs, emphasizing the importance of clarity and structure.
